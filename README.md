@@ -8,4 +8,4 @@ O gatilho `needs: ci` configurado na etapa de Continuous Delivery. Como a entreg
 A próxima etapa seria adicionar um job subsequente (por exemplo, `deploy`) configurado para rodar após o `delivery` e integrar uma ferramenta ou script de publicação automática (como enviar para o PyPI, fazer o deploy em um servidor de produção ou container registry), substituindo ou complementando a simples criação e upload do artefato por um processo que coloque a aplicação diretamente em ambiente produtivo sem intervenção manual.
 
 
-https://github.com/JoaoVitorpmp/workflow-python-cd/actions/runs/32790991313/artifacts/9543115054
+https://github.com/GustavoEdsonDev/cd-ci-pipile-workflow/actions/runs/32798763737/artifacts/9545762134
